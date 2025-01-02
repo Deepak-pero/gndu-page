@@ -1,0 +1,58 @@
+.footer {
+    position: relative;
+    top: 0em;
+}
+
+.second-page {
+    height: 130vh;
+    width: 98.9vw;
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+}
+
+.header {
+    margin: 118px 3px;
+}
+
+.heading {
+    margin: -27px 4px;
+}
+
+.heading-under-part>li>a {
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+
+.heading-under-part>li {
+    margin: 22px 202px;
+    line-height: 27px;
+}
+
+.heading>h1 {
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    text-transform: capitalize;
+    font-size: 32px;
+    margin: 0px 206px;
+}
+
+
+.sub-heading>p {
+    color: #242424;
+    font-size: 15px;
+    font-family: "PT Sans", sans-serif;
+    margin: 50px 206px;
+}
+
+.heading-under-part>li * span {
+    color: #0a68ca;
+    font-weight: 400;
+}
+
+
+.heading-under-part {
+    margin: -23px 3px;
+}
